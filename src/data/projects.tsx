@@ -259,7 +259,7 @@ const projects: Project[] = [
       ],
     },
     live: "https://www.codingducks.xyz/",
-    github: "",
+    github: "https://github.com/asilbek12xayrullayev/my-Portfoliu-3D",
     get content() {
       return (
         <div>
@@ -500,8 +500,8 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
-    live: "http://nareshkhatri.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    live: "https://vercel.com/asilbeks-projects-f937be8a",
+    github:"https://github.com/asilbek12xayrullayev",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
